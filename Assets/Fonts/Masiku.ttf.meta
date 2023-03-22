@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c11ad040d50774a47bd017109050245b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Masiku
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5b419e98d30551549a898d2f8616b982, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
